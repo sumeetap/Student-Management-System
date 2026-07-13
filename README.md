@@ -25,3 +25,4 @@ This project offers several advantages, including faster record management, impr
 In conclusion, the **Student Management System** is an excellent beginner-level Java mini project that demonstrates the practical application of programming concepts in solving real-world problems. It helps students strengthen their knowledge of Java programming, Object-Oriented Programming principles, and console-based application development. The project serves as a strong foundation for developing larger academic management systems and enterprise-level educational software in the future.
 
 OUTPUT :
+<img width="901" height="478" alt="Image" src="https://github.com/user-attachments/assets/965ae5e1-9177-445b-9763-39f2a2b9c21b" />
